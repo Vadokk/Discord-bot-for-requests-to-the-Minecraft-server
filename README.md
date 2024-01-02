@@ -1,4 +1,4 @@
-# Application-discord-Bot-for-Minecraft
+# Discord-bot-for-requests-to-the-minecraft-server
 Discord бот для лёгкого рассмотрения заявок для вашего minecraft сервера.
 
 Создавал я его для своего сервера, но теперь он без надобности(
