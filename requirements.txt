@@ -1,0 +1,5 @@
+asyncio==3.4.3
+aiohttp==3.8.5
+disnake==2.9.0
+requests==2.31.0
+mcrcon==0.7.0
